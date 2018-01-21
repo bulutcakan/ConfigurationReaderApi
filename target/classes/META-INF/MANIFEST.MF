@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ConfigruationReaderApi
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: b00360561
+Implementation-Vendor-Id: com.bulut.api
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/ConfigruationReaderApi/
+Created-By: Maven Integration for Eclipse
+
